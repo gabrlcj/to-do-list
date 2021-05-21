@@ -7,7 +7,7 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> • 
- <a href="#Features">Features</a> • 
+ <a href="#features">Features</a> • 
  <a href="#tecnologias-">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -16,7 +16,12 @@
 
 ---
 
-### Features
+### Sobre 📝
+
+
+---
+
+### Features ⚙️
 
 - [x] Cadastro de tarefas
 - [x] Marcação estilo radio para tarefas concluidas
@@ -35,6 +40,6 @@
 ### Tecnologias 🦾
 As seguintes Tecnologias foram utilizadas:
 
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [CSS](https://www.w3schools.com/css/default.asp)
-- [Javascript](https://www.w3schools.com/js/default.asp)
+ - [HTML](https://www.w3schools.com/html/default.asp)
+ - [CSS](https://www.w3schools.com/css/default.asp)
+ - [Javascript](https://www.w3schools.com/js/default.asp)
