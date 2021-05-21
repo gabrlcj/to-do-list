@@ -6,8 +6,8 @@
 ---
 
 <p align="center">
- <a href="#sobre">Sobre</a> • 
- <a href="#features">Features</a> • 
+ <a href="#sobre-">Sobre</a> • 
+ <a href="#features-">Features</a> • 
  <a href="#tecnologias-">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
