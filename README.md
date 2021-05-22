@@ -1,7 +1,7 @@
 <h1 align='center'> 📓 To Do List / Lista de Tarefas 📓</h1>
 <h3 align='center'> Uma pequena lista de afazeres onde você adiciona, marca e exclui tarefas do dia-a-dia</h3>
-<a href="https://github.com/gabrlcj/to-do-list/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/gabrlcj/to-do-list"></a>
-<a href="https://github.com/gabrlcj/to-do-list/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gabrlcj/to-do-list?color=purple"></a>
+<a href="https://github.com/gabrlcj/to-do-list/stargazers"><img align='center' alt="GitHub stars" src="https://img.shields.io/github/stars/gabrlcj/to-do-list"></a>
+<a href="https://github.com/gabrlcj/to-do-list/network"><img align='center' alt="GitHub forks" src="https://img.shields.io/github/forks/gabrlcj/to-do-list?color=purple"></a>
 
 ---
 
