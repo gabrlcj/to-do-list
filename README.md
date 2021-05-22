@@ -19,14 +19,14 @@
 
 ---
 
-### Sobre 📝
+## Sobre 📝
 <p align='center'> 
  Este projeto foi desenvolvido como uma proposta de um curso que estou realizando e tendo como objetivo criar esta lista de tarefas onde podemos escrever pequenas tarefas do dia para formar uma lista de coisas a se fazer, e <b>mantendo elas armazenadas em local storage com o JS.</b>
 </p>
 
 ---
 
-### Features ⚙️
+## Features ⚙️
 
 - [x] Cadastro de tarefas
 - [x] Marcação estilo radio para tarefas concluidas
@@ -34,7 +34,7 @@
 
 ---
 
-### Imagens do Projeto 📸
+## Imagens do Projeto 📸
 
 <div align='center'>
   <h5 align='center'><i>Cara da aplicação:</i></h5>
@@ -45,7 +45,7 @@
 
 ---
 
-### Tecnologias 🦾
+## Tecnologias 🦾
 As seguintes Tecnologias foram utilizadas:
 
  - [HTML](https://www.w3schools.com/html/default.asp)
