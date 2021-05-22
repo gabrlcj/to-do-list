@@ -19,14 +19,14 @@
 
 ---
 
-### About 📝
+## About 📝
 <p align='center'>
  This project was developed as a proposal for a curse that I am taking and aiming to create this list of tasks where we can write small tasks of the day to form a list of things to do, and <b>keeping them stored in local storage with JS.</b>
 </p>
 
 ---
 
-### Features ⚙️
+## Features ⚙️
 
 - [x] Task register
 - [x] Radio-style marking for completed tasks
@@ -34,7 +34,7 @@
 
 ---
 
-### Images of the Project 📸
+## Images of the Project 📸
 
 <div align='center'>
   <h5 align='center'><i>Face of application:</i></h5>
@@ -45,7 +45,7 @@
 
 ---
 
-### Technologies 🦾
+## Technologies 🦾
 The following technologies were used:
 
  - [HTML](https://www.w3schools.com/html/default.asp)
