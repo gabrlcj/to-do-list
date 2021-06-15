@@ -62,4 +62,3 @@ As seguintes Tecnologias foram utilizadas:
 Feito com 🖤 por Gabriel B. Penteado. Entre em contato! 👋🏽
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bittencourt-penteado/)](https://www.linkedin.com/in/gabriel-bittencourt-penteado/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielbittencourt57@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbittencourt57@gmail.com)](mailto:tgmarinho@gmail.com)
